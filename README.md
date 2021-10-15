@@ -1,11 +1,11 @@
 <p></p>
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=GeorgeLxL.GeorgeLxL" />
-<img align="right" src="https://img.shields.io/github/followers/GeorgeLxL?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VOLDMOTE1208.VOLDMOTE1208" />
+<img align="right" src="https://img.shields.io/github/followers/VOLDMOTE1208?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=GeorgeLxL&theme=github&count_private=true" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=VOLDMOTE1208&theme=github&count_private=true" />
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=GeorgeLxL&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeLxL&layout=compact&theme=merko&count_private=true" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=VOLDMOTE1208&show_icons=true&theme=merko&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOLDMOTE1208&layout=compact&theme=merko&count_private=true" />
 <img height="150" />
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -43,7 +43,7 @@
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/GeorgeLxL/GeorgeLxL/blob/main/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/VOLDMOTE1208/VOLDMOTE1208/blob/main/code.gif?raw=true" width="400" />
     
 ### Full-stack web development(Me*n, Django)
 <br />
