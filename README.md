@@ -45,16 +45,19 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/VOLDMOTE1208/VOLDMOTE1208/blob/main/code.gif?raw=true" width="400" />
     
-### Full-stack web development(Me*n, Django)
+### Full-stack web development(MERN(Mongodb, express, React, Node js))
 <br />
 
+### c# and c++ desktop app
+<br />
+    
 ### Artificial Intelligence Python
 <br />
 
 ### Data Science Python
 <br />
 
-### PHP(Laravel, Wordpress)
+### Unity(c#, Game Development)
 <br />
 
 </div>
