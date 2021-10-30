@@ -2,11 +2,11 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=VOLDMOTE1208.VOLDMOTE1208" />
 <img align="right" src="https://img.shields.io/github/followers/VOLDMOTE1208?label=Follow&style=social" />
 <h1 align="center"></h1>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=VOLDMOTE1208&theme=github&count_private=true" />
-<h1 align="center"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Program%20Expert;Blockchain%20Unity%20React%20Master;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22">
 </p>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=VOLDMOTE1208&theme=github&count_private=true" />
+<h1 align="center"></h1>
 <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=VOLDMOTE1208&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOLDMOTE1208&layout=compact&theme=merko&count_private=true" />
 <img height="150" />
